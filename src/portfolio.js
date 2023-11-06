@@ -32,13 +32,13 @@ const projects = [
     sourceCode: 'https://github.com/Krushna-Kulkarni/GistNotes',
     livePreview: 'https://gistnotes.up.railway.app',
   },
-  {
-    name: 'Scroll',
-    description: 'A dynamic social media application styled with TailwindCSS',
-    stack: ['React.js', 'Node.js', 'TailwindCSS'],
-    sourceCode: 'https://github.com/Krushna-Kulkarni/scroll',
-    livePreview: 'https://socialscroll.netlify.app',
-  },
+  // {
+  //   name: 'Scroll',
+  //   description: 'A dynamic social media application styled with TailwindCSS',
+  //   stack: ['React.js', 'Node.js', 'TailwindCSS'],
+  //   sourceCode: 'https://github.com/Krushna-Kulkarni/scroll',
+  //   livePreview: 'https://socialscroll.netlify.app',
+  // },
   {
     name: 'Bookbugs',
     description: 'A complete E-commerce application for buying books online',
@@ -59,6 +59,13 @@ const projects = [
     stack: ['React.js', 'Material UI'],
     sourceCode: 'https://github.com/Krushna-Kulkarni/streamr',
     livePreview: 'https://ytstreamr.netlify.app',
+  },
+  {
+    name: 'Geektrust - Admin UI',
+    description: 'A dynamic fully responsive admin dashboard with pagination',
+    stack: ['React.js', 'Node.js', 'TailwindCSS'],
+    sourceCode: 'https://github.com/Krushna-Kulkarni/geektrust_admin_ui',
+    livePreview: 'https://geektrust-admin-ui-asssignment.netlify.app/',
   },
 ]
 
