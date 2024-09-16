@@ -11,7 +11,7 @@ const about = {
   description:
     'As a passionate Frontend Developer, I bring expertise in JavaScript and a deep understanding of UI libraries to the table. My forte lies in crafting responsive web applications and seamlessly integrating REST APIs. I am dedicated to creating visually stunning and user-friendly interfaces that elevate user experiences.',
   resume:
-    'https://drive.google.com/file/d/1MtSeuijq5_cFb_H3DZuolirQZX23nXS-/view',
+    'https://drive.google.com/file/d/1I6Ue0axbrU2XsW4t5YtcXKRSAeoJO69S/view?usp=sharing',
 }
 
 const projects = [
